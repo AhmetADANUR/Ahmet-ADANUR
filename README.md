@@ -25,8 +25,8 @@ Yazılım geliştirme tutkum sayesinde, her projeye kaliteli ve verimli çözüm
 
 🛠️ **Projelerim**:
 
-- [📖 **Blog Uygulaması**](https://github.com/AhmetADANUR/blog-uygulamasi): Kullanıcıların içerik oluşturup düzenleyebileceği, yorum yapabileceği bir blog platformu.  
-- [📊 **Stok Takip Sistemi**](https://github.com/AhmetADANUR/stok-takip-sistemi): Ürünleri ve stok durumlarını yönetmek için geliştirilmiş bir web uygulaması.  
-- [📱 **Android Mobil Uygulama**](https://github.com/AhmetADANUR/mobil-uygulama): Android platformunda çalışan kullanıcı dostu ve hızlı mobil uygulama.
+- [📖 **Bilgisayar Bilesenleri Kisaltmalari Android**](https://github.com/AhmetADANUR/Bilgisayar-Bilesenleri-Kisaltmalari-android): Kullanıcıların içerik oluşturup düzenleyebileceği, yorum yapabileceği bir blog platformu.  
+- [📊 **Android studio Online Rfid Yoklama Sistemi**](https://github.com/AhmetADANUR/Android-studio-Online-Rfid-Yoklama-Sistemi): Ürünleri ve stok durumlarını yönetmek için geliştirilmiş bir web uygulaması.  
+- [📱 **Hayat Sinyalim Afet Yonetimi Android Studio**](https://github.com/AhmetADANUR/Hayat-Sinyalim-Afet-Yonetimi-Android-Studio): Android platformunda çalışan kullanıcı dostu ve hızlı mobil uygulama.
 
 ⭐️ **GitHub Profilimi Takip Edin**: [Takip Et](https://github.com/AhmetADANUR) ve projelerimi keşfedin!
